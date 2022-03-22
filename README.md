@@ -10,6 +10,8 @@ Mini VTOP is a flutter project which uses the power of webview to create a user 
 
 These two modes can be inter-switched instantly using the app drawer "VTOP Mode" option.
 
+Mini VTOP also auto fills the captcha on login screen for instant login.
+
 Please be informed of these points:-
 1. This project is created only for educational purpose and my personal use.
 2. This project has no direct or indirect connections or affilations with VIT (Vellore Institute of Technology).
@@ -20,4 +22,4 @@ App videos and images:-
 https://user-images.githubusercontent.com/85361211/159298806-38cf408a-15d0-4162-86a7-5b4b5010b555.mp4
 
 
-<img src= "https://user-images.githubusercontent.com/85361211/159277406-bd5d0037-6b03-4d27-b1fe-2071d1c8596c.png" width="300"><img src= "https://user-images.githubusercontent.com/85361211/159278228-eddcd503-4645-421e-8c7f-3523d387604a.png" width="300"><img src= "https://user-images.githubusercontent.com/85361211/159278434-8da8f934-2d46-4d13-a861-2bf80a1a7aa7.png" width="300"><img src= "https://user-images.githubusercontent.com/85361211/159278640-f60a04d8-4423-431a-8db9-f0a4ddd7c85c.png" width="300"><img src= "https://user-images.githubusercontent.com/85361211/159278851-74c7b869-ee4c-45be-807e-43f3a0eb9399.png" width="300"><img src= "https://user-images.githubusercontent.com/85361211/159278895-b6080958-68dd-4d8b-8e0d-821244231d13.png" width="300">
+<img src= "https://user-images.githubusercontent.com/85361211/159277406-bd5d0037-6b03-4d27-b1fe-2071d1c8596c.png" width="300"><img src= "https://user-images.githubusercontent.com/85361211/159278228-eddcd503-4645-421e-8c7f-3523d387604a.png" width="300"><img src= "https://user-images.githubusercontent.com/85361211/159278434-8da8f934-2d46-4d13-a861-2bf80a1a7aa7.png" width="300"><img src= "https://user-images.githubusercontent.com/85361211/159468786-3ed99a3e-a1b2-4dd0-b436-d8b9c329a1a3.png" width="300"><img src= "https://user-images.githubusercontent.com/85361211/159278851-74c7b869-ee4c-45be-807e-43f3a0eb9399.png" width="300"><img src= "https://user-images.githubusercontent.com/85361211/159278895-b6080958-68dd-4d8b-8e0d-821244231d13.png" width="300">
